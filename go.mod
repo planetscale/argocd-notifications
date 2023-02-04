@@ -6,34 +6,34 @@ require (
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/antonmedv/expr v1.8.9
-	github.com/argoproj/argo-cd/v2 v2.0.0-rc3
-	github.com/argoproj/gitops-engine v0.3.1
+	github.com/argoproj/argo-cd/v2 v2.1.16
+	github.com/argoproj/gitops-engine v0.4.3
 	github.com/bradleyfalzon/ghinstallation v1.1.1
+	github.com/docker/spdystream v0.0.0-20181023171402-6480d4af844c // indirect
 	github.com/evanphx/json-patch v4.9.0+incompatible
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
-	github.com/golang/mock v1.4.4
+	github.com/golang/mock v1.5.0
 	github.com/google/go-github/v33 v33.0.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0 // indirect
 	github.com/huandu/xstrings v1.3.0 // indirect
-	github.com/imdario/mergo v0.3.8 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.4
 	github.com/opsgenie/opsgenie-go-sdk-v2 v1.0.5
 	github.com/prometheus/client_golang v1.7.1
 	github.com/robfig/cron v1.2.0 // indirect
-	github.com/sirupsen/logrus v1.6.0
+	github.com/sirupsen/logrus v1.7.0
 	github.com/slack-go/slack v0.6.6
-	github.com/spf13/cobra v1.1.1
-	github.com/stretchr/testify v1.6.1
+	github.com/spf13/cobra v1.1.3
+	github.com/stretchr/testify v1.7.0
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	github.com/whilp/git-urls v0.0.0-20191001220047-6db9661140c0
 	gomodules.xyz/notify v0.1.0
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
-	k8s.io/api v0.20.4
-	k8s.io/apimachinery v0.20.4
+	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	k8s.io/api v0.21.0
+	k8s.io/apimachinery v0.21.0
 	k8s.io/client-go v11.0.1-0.20190816222228-6d55c1b1f1ca+incompatible
-	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
+	k8s.io/utils v0.0.0-20210111153108-fddb29f9d009
 )
 
 replace (

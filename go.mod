@@ -3,7 +3,7 @@ module github.com/argoproj-labs/argocd-notifications
 go 1.16
 
 require (
-	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/antonmedv/expr v1.8.9
 	github.com/argoproj/argo-cd/v2 v2.0.0-rc3
